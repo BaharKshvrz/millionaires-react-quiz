@@ -14,8 +14,11 @@ Test your knowledge by answering all questions about general knowledge at free o
 
 
 ## Available Scripts
-In the project directory, you can run:
 
+In the project directory, you can install:
+**npm install**
+
+In the project directory, you can run:
 **npm start**
 
 Runs the app in the development mode.
